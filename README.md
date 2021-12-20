@@ -11,15 +11,23 @@ In this project, we will have four situation:
 
 S1: Jump to the opposite corner just as the origin rules.
 S2: Jump to a different corner
-S3: Jump to a different corner while there are pieces that is not movable
-S4: Jump only a few pieces to the target area.
+S3: Jump to a different corner while there are pieces that is not movable, which will be listed on obstacle.txt.
+S4: Jump only a few pieces, which will be listed on initial.txt, to the target area.
 
 Result:
-S1: 
+
+S1:
+
 ![alt text](https://github.com/tw329/chinese_checkers/blob/master/S1.gif)
+
 S2:
+
 ![alt text](https://github.com/tw329/chinese_checkers/blob/master/S2.gif)
+
 S3:
+
 ![alt text](https://github.com/tw329/chinese_checkers/blob/master/S3.gif)
+
 S4:
+
 ![alt text](https://github.com/tw329/chinese_checkers/blob/master/S4.gif)
