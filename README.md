@@ -5,3 +5,21 @@ The objective is to be first to race all of one's pieces across the hexagram-sha
 
 Game Board:
 ![alt text](https://raw.githubusercontent.com/tw329/chinese_checkers/master/Chinese_checkers_jump.svg "gameboard pic")
+
+
+In this project, we will have four situation:
+
+S1: Jump to the opposite corner just as the origin rules.
+S2: Jump to a different corner
+S3: Jump to a different corner while there are pieces that is not movable
+S4: Jump only a few pieces to the target area.
+
+Result:
+S1: 
+![alt text](https://github.com/tw329/chinese_checkers/blob/master/S1.gif)
+S2:
+![alt text](https://github.com/tw329/chinese_checkers/blob/master/S2.gif)
+S3:
+![alt text](https://github.com/tw329/chinese_checkers/blob/master/S3.gif)
+S4:
+![alt text](https://github.com/tw329/chinese_checkers/blob/master/S4.gif)
